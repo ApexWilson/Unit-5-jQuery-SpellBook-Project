@@ -1,0 +1,20 @@
+body{
+    background-image:url("http://www.myseumoftoronto.com/wp-content/uploads/2018/05/plain-black-background.jpg"); 
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#tornado{
+    width:500px;
+}
+#breath{
+    width:500px;
+}
+#blades{
+    width:500px;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
